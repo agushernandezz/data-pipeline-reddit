@@ -1,0 +1,9 @@
+{
+  "conf": {
+    "CLIENT_ID": "",
+    "SECRET_KEY": "",
+    "USERNAME": "",
+    "PASSWORD": "",
+    "subreddit": ""
+  }
+}
